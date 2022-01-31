@@ -66,6 +66,5 @@ function send()
     cell6.innerHTML = list6[x];
     cell7.innerHTML = list7[x];
     cell8.innerHTML = str;
-    n++;
-    x++;
+  
 }
